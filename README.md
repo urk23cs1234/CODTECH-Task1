@@ -6,6 +6,7 @@ Duration:May to June 2024
 Mentor:Neela Santhosh Kumar
 
 OVERVIEW OF THE PEOJECT
+![0B3AAF38-E84D-4834-8F15-510D1E4EEBA8_4_5005_c](https://github.com/urk23cs1234/CODTECH-Task1/assets/156493402/599eee52-e614-40d7-bc60-a7b9bb6221a1)
 
 
 Poject:Create a Python program that acts as a basic calculator. 
