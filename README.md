@@ -1,20 +1,21 @@
-**Name:**ABHINNAYA KRISHNAN
-**Company:**CODTECH IT SOLUTIONS
-**ID:**
-**Domain:**Python Programming
-**Duration:**May to June 2024
-**Mentor:**Neela Santhosh Kumar
+Name:ABHINNAYA KRISHNAN
+Company:CODTECH IT SOLUTIONS
+ID:CT4PP2913
+Domain:Python Programming
+Duration:May to June 2024
+Mentor:Neela Santhosh Kumar
 
-##OVERVIEW OF THE PEOJECT
+OVERVIEW OF THE PEOJECT
 
-###Poject:Create a Python program that acts as a basic calculator. 
 
-###Objective
+Poject:Create a Python program that acts as a basic calculator. 
+
+Objective
 
 Develop a simple command-line calculator program in Python.
 The program should allow users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
-###Key Activities:
+Key Activities:
 
 User Input:
 Prompt the user to enter two numerical values.
@@ -28,7 +29,7 @@ Handle division by zero error to prevent program crashes.
 Output:
 Display the result of the calculation in a clear and user-friendly format.
 
-###Technology Used:
+Technology Used:
 
 Python: The program is written in Python, a general-purpose, high-level programming language known for its readability and ease of use.
 Input/Output Functions: Python provides built-in functions like input() to get user input and print() to display output on the console.
